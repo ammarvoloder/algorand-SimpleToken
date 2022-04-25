@@ -1,0 +1,17 @@
+{
+  "name": "simpletoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simpleToken.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algosdk": "^1.14.0"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.3.2"
+  }
+}
